@@ -1,0 +1,10 @@
+body {}
+
+.class {
+    background-color: #efefef;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border: 10px solid #efefef;
+    margin: 20px;
+}
